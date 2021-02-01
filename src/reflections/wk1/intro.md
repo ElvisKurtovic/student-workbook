@@ -6,4 +6,4 @@ how neat is that?
 
 ---
 
-thats pretty neat
+thats pretty cool
