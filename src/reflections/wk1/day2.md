@@ -3,3 +3,5 @@
 3.Since it overrides even in-line styles, your code can get very conviluded and hard to update
 
 https://github.com/ElvisKurtovic/coolsite.git
+
+https://elviskurtovic.github.io/coolsite/
