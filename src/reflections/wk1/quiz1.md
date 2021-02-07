@@ -15,7 +15,7 @@ creates a new directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+container for all other html elements
 ```
 
 **4.** What does `HTML` stand for?
@@ -50,23 +50,23 @@ font-weight
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+body
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+ul, ol, dl
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+used to set the length of flexible items
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+width, height, padding, border and margin
 ```
