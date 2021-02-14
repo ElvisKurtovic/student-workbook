@@ -33,7 +33,7 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-them.push(you)
+you.push(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
@@ -59,7 +59,7 @@ Document Object Model. html.
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+boolean, null, undefined, number, string, symbol, object, array, function
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
