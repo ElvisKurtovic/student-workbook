@@ -22,5 +22,7 @@ Code-on-demand
 
 example: https://sitename/api/data
 
+::: example: https://sitename/api/collection
+
 
 https://chrisjcurry.github.io/Music-Is-Fun/

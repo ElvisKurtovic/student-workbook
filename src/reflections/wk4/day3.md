@@ -6,6 +6,8 @@ What must you do in order to await a promise inside of a function?
 
 use the try catch method
 
+::: this would be await
+
 What are some of the primary benefits of Async/Await?
 
 Increase the performance and responsiveness of your application by allowing the rest of your code to load while responses from api are pulled

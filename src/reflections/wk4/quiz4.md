@@ -33,6 +33,8 @@ completion or failur of an asynchronous operation
 <!-- enter you answer in the space below -->
 ```
 request line, headers, body
+
+::: get, post, put
 ```
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->
@@ -48,14 +50,20 @@ service
 <!-- enter you answer in the space below -->
 ```
 to prevent the user from being able to see/manipulate all your data/code
+
+::: data bundling
 ```
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
 2xx Success
+
+200
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
  Generic error response. It means that the server encountered an unexpected condition that prevented it from fulfilling the request
+
+ ::: error occurred in the server code
 ```
