@@ -1,7 +1,7 @@
 What is Component based architecture?
 <!-- enter you answer in the space below -->
 ```
-
+Allows you to break your application into smaller, reusable pieces (components) which you can then use to build out a more complicated structure.
 ```
 
 What are some benefits of Component based architecture?
@@ -15,3 +15,4 @@ What are some drawbacks to Component based architecture?
 ```
 
 ```
+https://github.com/ElvisKurtovic/vue-playground
