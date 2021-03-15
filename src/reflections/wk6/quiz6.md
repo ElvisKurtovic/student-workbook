@@ -53,5 +53,5 @@ script, scoped
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
 ```
-
+computed()
 ```
