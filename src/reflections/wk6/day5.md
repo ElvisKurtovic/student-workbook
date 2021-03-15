@@ -1,0 +1,1 @@
+https://github.com/ElvisKurtovic/blogposts.git
